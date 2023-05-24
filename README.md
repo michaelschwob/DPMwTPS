@@ -33,7 +33,7 @@ A Julia script that simulates data for the first case study and runs the SAM and
 ## Data 
 
 `Mosquito_Count_iter.csv`
-Mosquito count data for several species at several locations. Used in the NEON case study.
+A subset of the mosquito count data collected by NEON.
 
 `Weather_iter.csv`
-Weather data for all sites listed in `Mosquito_Count_iter.csv` throughout the study period. Used in the simulated and NEON case studies.
+Weather data obtained from Oregon PRISM for all sites listed in `Mosquito_Count_iter.csv` throughout the study period. Used in the simulated and NEON case studies.
